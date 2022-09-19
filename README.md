@@ -1,4 +1,4 @@
-# simple-tailwind-project
+# Landing Page with Tailwind
 
 <p align="center">
   <a href="https://tailwindcss.com/#gh-light-mode-only" target="_blank">
