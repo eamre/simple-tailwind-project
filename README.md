@@ -23,14 +23,10 @@
 
 ------
 
-## Documentation
-
-For full documentation, visit [tailwindcss.com](https://tailwindcss.com/).
-
 
 <!--- ![alt text](https://github.com/eamre/simple-tailwind-project/blob/main/img/ph1.PNG?raw=true)-->
-<img src="https://github.com/eamre/simple-tailwind-project/blob/main/img/ph1.PNG" width="800" height="450" />
-<img src="https://github.com/eamre/simple-tailwind-project/blob/main/img/ph2.PNG" width="800" height="450" />
-<img src="https://github.com/eamre/simple-tailwind-project/blob/main/img/ph3.PNG" width="800" height="460" />
+<img src="https://github.com/eamre/simple-tailwind-project/blob/main/img/ph1.PNG" width="800"  />
+<img src="https://github.com/eamre/simple-tailwind-project/blob/main/img/ph2.PNG" width="800"  />
+<img src="https://github.com/eamre/simple-tailwind-project/blob/main/img/ph3.PNG" width="800"  />
 
 
